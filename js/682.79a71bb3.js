@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknotes_messanger"]=self["webpackChunknotes_messanger"]||[]).push([[682],{4682:function(t,e,n){n.r(e),n.d(e,{default:function(){return l}});var r=function(){var t=this,e=t._self._c;return e("div",[t._v("404 "),e("router-link",{attrs:{to:"Start"}},[t._v("Вернуться назад")])],1)},s=[],u={props:{},components:{},data(){return{test:"Не важно что"}},created(){},mounted(){},methods:{}},a=u,o=n(1001),c=(0,o.Z)(a,r,s,!1,null,"0a41411b",null),l=c.exports}}]);
+//# sourceMappingURL=682.79a71bb3.js.map

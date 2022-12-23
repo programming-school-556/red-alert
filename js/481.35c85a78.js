@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknotes_messanger"]=self["webpackChunknotes_messanger"]||[]).push([[481],{9481:function(e,n,t){t.r(n),t.d(n,{default:function(){return f}});var s=function(){var e=this,n=e._self._c;return n("div",[e._v(" Нет признаков жизни. Попробуйте снова ")])},r=[],u={props:{},components:{},data(){return{test:"Не важно что"}},created(){},mounted(){},methods:{}},a=u,o=t(1001),c=(0,o.Z)(a,s,r,!1,null,"31afc310",null),f=c.exports}}]);
+//# sourceMappingURL=481.35c85a78.js.map
